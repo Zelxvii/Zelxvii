@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zelxvii
-- 👀 I’m interested in ...
+- 👀 I’m interested in robot programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on making remote control car
 - 📫 How to reach me Discord : Zazel#1140
 
 <!---
